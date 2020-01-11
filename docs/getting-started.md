@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"I have been waiting for so long for you to come!"
+"You are doing awesome!"
+"Thanks for your contribution!"
