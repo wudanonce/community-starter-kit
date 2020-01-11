@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome bot automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## What it does
 
