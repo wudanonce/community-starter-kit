@@ -4,7 +4,9 @@ Welcome bot automatically generates friendly messages when new team members crea
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- say hello
+- say goodbye
+- say nice job!
 
 ## Getting started
 
