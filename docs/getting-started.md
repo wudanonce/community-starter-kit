@@ -35,6 +35,12 @@ firstPRMergeComment: >
 
 ### Example Messages
 
+
+"Welcome to the GitHub world!"
+
 "I have been waiting for so long for you to come!"
-"You are doing awesome!"
-"Thanks for your contribution!"
+
+"Awesome! You jsut created your first pull request!"
+
+"Great work! Thanks for your contribution!"
+
