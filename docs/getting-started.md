@@ -35,4 +35,9 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Welcome to the GitHub world!"
+
+"Awesome! You jsut created your first pull request!"
+
+"Great work! Thanks for your contribution!"
+
